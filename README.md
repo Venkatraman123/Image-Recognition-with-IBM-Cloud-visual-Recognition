@@ -22,7 +22,7 @@ Follow the [steps here](https://cloud.ibm.com/docs/codeengine?topic=codeengine-a
 Follow the steps in the [solution tutorial](https://cloud.ibm.com/docs/solution-tutorials?topic=solution-tutorials-text-analysis-code-engine) and use this code sample to learn about [IBM Cloud™ Code Engine](https://cloud.ibm.com/codeengine/overview) by deploying an image classification application.
 
 **Note:**
-- Use the container images built from this code sample. Replace `ibmcom/*` with `<ACCOUNT_NAME>/*`
+- Use the container images built from this code sample. Replace `ibmcom/*
 - 🔆 Instead of uploading a text file, upload an image (.jpeg, .png) to COS. For sample images, **check the images folder in this repo.**
 
 ### Expected output
